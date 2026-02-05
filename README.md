@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Dominik
 
-<!--
-**c0gniFire/c0gniFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My primary engine is curiosity.**  
+A deep need to understand systems from the ground up shapes how I learn and build.
 
-Here are some ideas to get you started:
+I'm self‑taught and consistently set higher standards for my development.  
+Mathematics is my primary language — I use it to model phenomena and their mechanisms through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧠 Interests & Focus
+
+- Neuroscience‑inspired AI  
+- Machine Learning  
+- Agent Systems / Agentic Workflows  
+- Programming Languages  
+- Physics Engines & Simulation  
+- Distributed Systems, Networks & Graph Structures
+
+
+## 🔬 My Approach
+
+I don’t limit myself to a single direction.  
+When I learn, I go **end‑to‑end** from first principles to implementation — and I don’t leave space for loose ends or vague understanding.  
+I value clarity, rigor, and building things that actually test ideas in practice.
+
+
+## 🔭 I’m currently working on
+- A job‑market scraper (to understand demand and technology trends in Poland)
+
+
+## 👯 I’m looking to collaborate on
+- Open‑source projects around **AI agents**, **LLM frameworks**, or **RAG systems**
